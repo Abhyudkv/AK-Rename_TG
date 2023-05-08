@@ -79,3 +79,4 @@ broadcast - admin only
    <p> lntechnical TG</p>
   </a>
 ## 🤩 INSPIRATION
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/xmKCsH)
